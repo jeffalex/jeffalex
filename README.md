@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffalex
 - 👀 I’m interested in Product & Business Development
-- 🌱 I’m currently learning AI, ML, Python, Golang, Solidiy.
+- 🌱 I’m currently learning AI, ML, Python, Golang, Solidity.
 - 💞️ I’m looking to collaborate on Blockchain, Payments, Fintech, 
 - 📫 How to reach me info@paybysplit.com
 
