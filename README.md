@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product & Business Development
 - 🌱 I’m currently learning AI, ML, Python, Golang, Solidity.
 - 💞️ I’m looking to collaborate on Blockchain, Payments, Fintech, 
-- 📫 How to reach me jeff@paybysplit.com
+- 📫 How to reach me jeff[at]paybysplit.com
 
 <!---
 jeffalex/jeffalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
